@@ -27,10 +27,10 @@ Build a basic E-Commerce platform using MERN stack from scratch
 ## Results
 
 A deployed API + a simple documentation using Postman: <sub>If you get no response, the API might be sleeping. Request again. (API is hosted on a free tier)</sub>
--	URL: https://meshari-hiremytech-api.herokuapp.com/v1/
--	Documentation: https://documenter.getpostman.com/view/17625602/Uz5FLH9D
+-	[API 🧠](https://meshari-hiremytech-api.herokuapp.com/v1/)
+-	[Documentation 📖](https://documenter.getpostman.com/view/17625602/Uz5FLH9D)
 
 A deployed frontend Website: <sub>Looks horrible, Not a fan of Bootstrap, Tailwind all the way 🚀</sub>
--	URL: https://meshari-hiremytech.netlify.app/
+-	[WEBSITE 🖥](https://meshari-hiremytech.netlify.app/)
 
 
